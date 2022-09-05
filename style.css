@@ -80,7 +80,7 @@ header .container .intro p {
   font-size: 15px;
 }
 
-header .container .intro #get_started {
+header .container .intro .get_started {
   display: inline-block;
   margin-top: 30px;
   text-align: center;
@@ -93,7 +93,7 @@ header .container .intro #get_started {
           box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.2), -1px -1px 2px rgba(0, 0, 0, 0.2);
 }
 
-header .container .intro #get_started a {
+header .container .intro .get_started a {
   color: white;
 }
 
@@ -215,7 +215,7 @@ footer .contentinfo_trial_card {
           box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2), -1.2px -1.2px 2px rgba(0, 0, 0, 0.2);
 }
 
-footer .contentinfo_trial_card #get_started {
+footer .contentinfo_trial_card .get_started {
   display: inline-block;
   margin-top: 30px;
   text-align: center;
@@ -228,7 +228,7 @@ footer .contentinfo_trial_card #get_started {
           box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.2), -1px -1px 2px rgba(0, 0, 0, 0.2);
 }
 
-footer .contentinfo_trial_card #get_started a {
+footer .contentinfo_trial_card .get_started a {
   color: white;
 }
 
